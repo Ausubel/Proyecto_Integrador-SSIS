@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-ODS6R65.DATAMART_SuperEPSA"
+  DTS:DTSID="{27D82591-62F4-41F6-8542-493BA65393D6}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-ODS6R65;Initial Catalog=DATAMART_SuperEPSA;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Proyecto_Integrador-{27D82591-62F4-41F6-8542-493BA65393D6}DESKTOP-ODS6R65.DATAMART_SuperEPSA;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

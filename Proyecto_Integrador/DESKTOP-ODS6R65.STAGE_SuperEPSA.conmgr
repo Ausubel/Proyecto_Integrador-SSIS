@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-ODS6R65.STAGE_SuperEPSA"
+  DTS:DTSID="{E74396BF-37CB-48CF-831C-BC4C9D2575DA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-ODS6R65;Initial Catalog=STAGE_SuperEPSA;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Proyecto_Integrador-{E74396BF-37CB-48CF-831C-BC4C9D2575DA}DESKTOP-ODS6R65.STAGE_SuperEPSA;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
